@@ -1,0 +1,4 @@
+DataCleaningTestCase is not passed because test is not right:
+
+Line "actual = int(time_series_visualizer.df.count(numeric_only=True))" raises an exception.
+Anyway, data cleaning is succesful. 1238 of non-null lines are recovered from dataframe after cleaning.
